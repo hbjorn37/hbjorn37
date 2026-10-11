@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
-- 🔭 백엔드 개발자에요.
-- 🌱 Data와 AI에 관심이 많아요.
-- 🤔 데이터 예측 솔루션를 만들고 있어요.
-- 😄 다들 저를 TED라고 불러요.
-- ⚡ 좋아하는 것들은 🏊🐟🚗☕🐻
+- 🔭 I'm a Backend Developer.
+- 🌱 Passionate about Data and AI.
+- 🤔 Building data forecasting solutions.
+- 😄 Call me **TED** — online as **hbjorn** (which means "Bear" in Old Norse 🐻).
+- ⚡ InteresTED in: 🏃‍♂️ 🏊 ☕ 🐟 🚗 🎮
